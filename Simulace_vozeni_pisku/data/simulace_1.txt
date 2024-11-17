@@ -1,0 +1,11 @@
+3000
+Veliky_brm_brm_1 15 120 60 5
+Veliky_brm_brm_2 15 120 60 5
+Veliky_brm_brm_3 15 120 60 5
+Brm_brm_1 2 80 30 10
+Brm_brm_2 2 80 30 10
+Brm_brm_3 2 80 30 10
+Brm_brm_bus_1 10 100 45 10
+Brm_brm_bus_2 10 100 45 10
+Brm_brm_bus_3 10 100 45 10
+---

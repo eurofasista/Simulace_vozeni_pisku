@@ -1,0 +1,10 @@
+3000
+Veliky_brm_brm 60 120 60 30
+Stredni_brm_brm 50 120 60 30
+Male_brm_brm 40 120 60 30
+Kolejove_brm_brm 150 180 120 60
+Elektricke_brm_brm 10 90 30 15
+Brm_brm_s_vrtuli 5 20 10 5
+Brm_brm_s_privesem 30 120 50 25
+Brm_brm_expres 20 80 30 15
+---

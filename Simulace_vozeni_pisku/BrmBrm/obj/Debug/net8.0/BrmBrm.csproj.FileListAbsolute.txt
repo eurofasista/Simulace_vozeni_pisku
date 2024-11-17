@@ -1,0 +1,14 @@
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\bin\Debug\net8.0\BrmBrm.exe
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\bin\Debug\net8.0\BrmBrm.deps.json
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\bin\Debug\net8.0\BrmBrm.runtimeconfig.json
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\bin\Debug\net8.0\BrmBrm.dll
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\bin\Debug\net8.0\BrmBrm.pdb
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.AssemblyInfoInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.AssemblyInfo.cs
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.csproj.CoreCompileInputs.cache
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.dll
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\refint\BrmBrm.dll
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.pdb
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\BrmBrm.genruntimeconfig.cache
+C:\Users\jandi\Desktop\soubory\programování\BrmBrm\BrmBrm\obj\Debug\net8.0\ref\BrmBrm.dll
